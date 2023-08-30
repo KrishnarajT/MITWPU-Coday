@@ -7,6 +7,9 @@ The objective of the event was to code a solution class in java, that would pred
 # Time taken. 
 It took us about 6 hours to code through, and it was a 24 hour competition. It was in java, and had a few testcases they wanted us to clear. 
 
+# Output
+The file `product_list.csv` is the final output of the code. It contains all the information predicted and calculated. 
+
 # Result
 TBD. 
 
